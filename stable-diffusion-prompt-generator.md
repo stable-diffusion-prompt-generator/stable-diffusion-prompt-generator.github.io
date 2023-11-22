@@ -57,3 +57,5 @@ https://f005.backblazeb2.com/file/Stable-Diffusion-Prompt-Generator/stable-diffu
 https://storage.googleapis.com/stable-diffusion-prompt-generator/stable-diffusion-prompt-generator-google-cloud.html
 
 https://stable-diffusion-prompt-generator.s3.us-west-2.amazonaws.com/stable-diffusion-prompt-generator-aws.html
+
+https://sites.google.com/view/stable-diffusion-prompt-gen
