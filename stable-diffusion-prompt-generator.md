@@ -48,14 +48,15 @@ The future of AI text generation is undoubtedly exciting, and the [Stable Diffus
 
 <iframe src="https://anakin.ai/apps/stable-diffusion-prompt-generator-2064" width="1px" height="1px"></iframe>
 
-https://stable-diffusion-prompt-generator.github.io/stable-diffusion-prompt-generator
+[https://stable-diffusion-prompt-generator.github.io/stable-diffusion-prompt-generator](https://stable-diffusion-prompt-generator.github.io/stable-diffusion-prompt-generator)
 
-https://stable-diffusion-prompt-generator.hashnode.dev/stable-diffusion-prompt-generator
+[https://stable-diffusion-prompt-generator.hashnode.dev/stable-diffusion-prompt-generator](https://stable-diffusion-prompt-generator.hashnode.dev/stable-diffusion-prompt-generator
+)
 
-https://f005.backblazeb2.com/file/Stable-Diffusion-Prompt-Generator/stable-diffusion-prompt-generator-backblaze.html
+[https://f005.backblazeb2.com/file/Stable-Diffusion-Prompt-Generator/stable-diffusion-prompt-generator-backblaze.html](https://f005.backblazeb2.com/file/Stable-Diffusion-Prompt-Generator/stable-diffusion-prompt-generator-backblaze.html)
 
-https://storage.googleapis.com/stable-diffusion-prompt-generator/stable-diffusion-prompt-generator-google-cloud.html
+[https://storage.googleapis.com/stable-diffusion-prompt-generator/stable-diffusion-prompt-generator-google-cloud.html](https://storage.googleapis.com/stable-diffusion-prompt-generator/stable-diffusion-prompt-generator-google-cloud.html)
 
-https://stable-diffusion-prompt-generator.s3.us-west-2.amazonaws.com/stable-diffusion-prompt-generator-aws.html
+[https://stable-diffusion-prompt-generator.s3.us-west-2.amazonaws.com/stable-diffusion-prompt-generator-aws.html](https://stable-diffusion-prompt-generator.s3.us-west-2.amazonaws.com/stable-diffusion-prompt-generator-aws.html)
 
-https://sites.google.com/view/stable-diffusion-prompt-gen
+[https://sites.google.com/view/stable-diffusion-prompt-gen](https://sites.google.com/view/stable-diffusion-prompt-gen)
