@@ -94,11 +94,11 @@ Maintain an ongoing engagement with the AI model, providing feedback on the gene
 
 ## Conclusion
 
-The Stable Diffusion Prompt Generator, in conjunction with AI Prompt Builders like Chat GPT, constitutes a potent toolkit for creators and developers seeking to unleash their creative potential. By gaining a deep understanding of Stable Diffusion, selecting the right AI tools, and utilizing them effectively, you can generate prompts that lead to stunning and lifelike AI-generated designs. Venture into the realm of AI creativity, and bring your visionary projects to life with the Stable Diffusion Prompt Generator - your ultimate AI prompt builder.
+The [Stable Diffusion Prompt Generator](https://anakin.ai/apps/stable-diffusion-prompt-generator-15738), in conjunction with AI Prompt Builders like Chat GPT, constitutes a potent toolkit for creators and developers seeking to unleash their creative potential. By gaining a deep understanding of Stable Diffusion, selecting the right AI tools, and utilizing them effectively, you can generate prompts that lead to stunning and lifelike AI-generated designs. Venture into the realm of AI creativity, and bring your visionary projects to life with the Stable Diffusion Prompt Generator - your ultimate AI prompt builder.
 
 In summary, prompt generation is an art that, when mastered, can unlock the full potential of AI for creative endeavors. With the right knowledge, tools, and techniques, you can harness the power of AI to bring your unique ideas and visions to life in the form of stunning digital art and content.
 
-<iframe src="https://anakin.ai/apps/stable-diffusion-prompt-generator-2064" width="1px" height="1px"></iframe>
+<iframe src="https://anakin.ai/apps/stable-diffusion-prompt-generator-15738" width="1px" height="1px"></iframe>
 
 [https://sites.google.com/view/stable-diffusion-prompt-gen](https://sites.google.com/view/stable-diffusion-prompt-gen)
 [https://stable-diffusion-prompt-generator.github.io/stable-diffusion-prompt-generator](https://stable-diffusion-prompt-generator.github.io/stable-diffusion-prompt-generator)
